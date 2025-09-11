@@ -1,6 +1,6 @@
 <!-- Banner (you can replace with your own custom anime-style header later) -->
 <p align="center">
-  <img src="https://i.imgur.com/zLZbqZs.png" alt="Banner" width="800px"/>
+  <img src="./sumayya.jpg" alt="Banner" width="800px"/>
 </p>
 
 <h1 align="center">🌸 Sumayya Fazal Hussain 🌸</h1>
