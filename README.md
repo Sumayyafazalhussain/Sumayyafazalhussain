@@ -5,23 +5,34 @@
   
   <br/>
   
-  <h1>👨‍💻 Full-Stack Certified Cloud & Applied AI Engineer</h1>
-  <h3>Building Intelligent Solutions at Scale</h3>
-  
-  <div>
-    <img src="https://img.shields.io/badge/MetaFrolic_Labs-AI_Engineer-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="MetaFrolic Labs"/>
-    <img src="https://img.shields.io/badge/Build_With_AI-Hackathon_Participant-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Build With AI"/>
-    <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
-    <img src="https://img.shields.io/badge/Full_Stack_Developer-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer"/>
+  <!-- Profile Picture Section -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin: 20px 0;">
+    <!-- Profile Picture -->
+    <div style="flex: 1; max-width: 250px;">
+      <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" 
+           alt="Sumayya Fazal Hussain" 
+           style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 4px 15px rgba(138, 43, 226, 0.3);"/>
+    </div>
+    
+    <!-- Profile Info -->
+    <div style="flex: 2; text-align: left;">
+      <h1>👨‍💻 Full-Stack Certified Cloud & Applied AI Engineer</h1>
+      <h3>Building Intelligent Solutions at Scale</h3>
+      
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/MetaFrolic_Labs-AI_Engineer-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="MetaFrolic Labs"/>
+        <img src="https://img.shields.io/badge/Build_With_AI-Hackathon_Participant-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Build With AI"/>
+        <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+        <img src="https://img.shields.io/badge/Full_Stack_Developer-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer"/>
+      </div>
+      
+      <p>
+        <strong>8,344+ Contributions</strong> in the last year | 
+        <strong>98% Code Commits</strong> | 
+        <strong>Active across 95+ repositories</strong>
+      </p>
+    </div>
   </div>
-  
-  <br/>
-  
-  <p>
-    <strong>8,344+ Contributions</strong> in the last year | 
-    <strong>98% Code Commits</strong> | 
-    <strong>Active across 95+ repositories</strong>
-  </p>
   
 </div>
 
